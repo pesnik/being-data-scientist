@@ -26,7 +26,7 @@
 1. [The Ultimate Guide to Convolutional Neural Networks (CNN) \- Blogs \- SuperDataScience | Machine Learning | AI | Data Science Career | Analytics | Success](https://www.superdatascience.com/the-ultimate-guide-to-convolutional-neural-networks-cnn/)  
 2. [The 9 Deep Learning Papers You Need To Know About (Understanding CNNs Part 3\)](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)  
 3. [A Friendly Introduction to Cross-Entropy Loss](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)  
-4. 
+4. [How to implement a neural network Intermezzo 2.docx](https://github.com/ranasingh-gkp/Machine-Learning/blob/master/Part%208%20-%20Deep%20Learning/Section%2040%20-%20Convolutional%20Neural%20Networks%20\(CNN\)/How%20to%20implement%20a%20neural%20network%20Intermezzo%202.docx)
 
 ## Books  
 ### ANN
