@@ -36,6 +36,9 @@
 1. [The Ultimate Guide to Recurrent Neural Networks (RNN) \- Blogs \- SuperDataScience | Machine Learning | AI | Data Science Career | Analytics | Success](https://www.superdatascience.com/the-ultimate-guide-to-recurrent-neural-networks-rnn/)
 2. [Andrej Karpathy blog](https://karpathy.github.io/)
 
+### SOM
+1. [SOM tutorial part 1](http://www.ai-junkie.com/ann/som/som1.html)
+
 ## Books  
 ### ANN
 
