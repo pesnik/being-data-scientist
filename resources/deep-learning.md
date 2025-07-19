@@ -14,6 +14,7 @@
 
 ### RNN
 1. [\[1506.02078\] Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078)
+2. [\[1503.04069\] LSTM: A Search Space Odyssey](https://arxiv.org/abs/1503.04069)
 
 ## Blogs  
 ### ANN
