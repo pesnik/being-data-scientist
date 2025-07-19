@@ -11,7 +11,9 @@
 2. [\[1609.04112\] Understanding Convolutional Neural Networks with A Mathematical Model](https://arxiv.org/abs/1609.04112)  
 3. [\[1502.01852\] Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification](https://arxiv.org/abs/1502.01852)  
 4. [Evaluation of Pooling Operations in Convolutional Architectures for Object Recognition](https://www.ais.uni-bonn.de/papers/icann2010_maxpool.pdf)  
-5. 
+
+### RNN
+1. [\[1506.02078\] Visualizing and Understanding Recurrent Networks](https://arxiv.org/abs/1506.02078)
 
 ## Blogs  
 ### ANN
